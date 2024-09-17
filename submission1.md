@@ -28,3 +28,6 @@
 
 ### Why the standard merge strategy is often preferred in collaborative environments?
 It provides full visibility of changes, so it's much easier to understand contribution of collaborators, to review and to troubleshoot.
+
+### Modify Repository Settings
+![image](https://github.com/user-attachments/assets/734b7ee0-1ec5-48f0-9a08-7d7bedee6c47)
